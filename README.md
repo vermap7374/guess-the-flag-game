@@ -2,7 +2,7 @@
 
 "Guess the Country" is an interactive **multiple-choice game** where players must **identify the country based on its flag**. The game tracks scores, implements a **3-life system**, and features a **leaderboard** to display top scores.
 
-🚀 **Live Demo:** [Deployed Link Here]([https://your-heroku-app.herokuapp.com](https://guess-the-flag-game.onrender.com/))  
+🚀 **Live Demo:** [Deployed Link Here](https://guess-the-flag-game.onrender.com/)
 📂 **Repository:** [GitHub Repo](https://github.com/your-username/guess-the-country)
 
 ---
